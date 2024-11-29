@@ -1,6 +1,6 @@
 # Multiplatform (iOS, macOS) SwiftUI bottom sheet drawer
 
-[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Figor11191708%2Fswiftui-bottomsheet-drawer%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/igor11191708/swiftui-bottomsheet-drawer)
+[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fswiftuiux%2Fswiftui-bottomsheet-drawer%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/swiftuiux/swiftui-bottomsheet-drawer)
 
  ## Features
 - [x] It does not re-render the background content while manipulating with the sheet
@@ -70,9 +70,9 @@ Position **BottomSheetPosition** is passed with **height** of the sheet.
 
 ## SwiftUI example of using package
 
-[![click to watch expected UI behavior for the example](https://github.com/The-Igor/swiftui-bottom-sheet-drawer/blob/main/Sources/img/wallet_02.gif)](https://youtu.be/jLu7gbzGXTo)
+[![click to watch expected UI behavior for the example](https://github.com/swiftuiux/swiftui-bottom-sheet-drawer/blob/main/Sources/img/wallet_02.gif)](https://youtu.be/jLu7gbzGXTo)
 
-[![click to watch expected UI behavior for the example](https://github.com/The-Igor/swiftui-bottom-sheet-drawer/blob/main/Sources/img/wallet_01.png)](https://youtu.be/jLu7gbzGXTo)
+[![click to watch expected UI behavior for the example](https://github.com/swiftuiux/swiftui-bottom-sheet-drawer/blob/main/Sources/img/wallet_01.png)](https://youtu.be/jLu7gbzGXTo)
 
 
 
